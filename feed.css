@@ -46,7 +46,7 @@ nav{
     font-size: 30px;
     font-weight: 700;
     color: black;
-    background: url(img/menu.png);
+    background: url(menu.png);
     background-size: cover;
     cursor: pointer;
 }
@@ -63,7 +63,7 @@ input:checked + label {
     height: 50px;
     width: 50px;
   background-size: cover;
-    background-image: url(img/menu.png)
+    background-image: url(menu.png)
 }
 
 .menu-content {
